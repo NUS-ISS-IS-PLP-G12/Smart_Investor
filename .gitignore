@@ -1,5 +1,6 @@
 bert
 bert/
+bert/*
 *.npy
 
 
