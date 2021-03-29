@@ -1,6 +1,7 @@
-bert
-bert/
+bert/*.pt
+bert/*.bin
 bert/*
+bert/
 *.npy
 
 
