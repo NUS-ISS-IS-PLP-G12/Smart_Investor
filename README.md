@@ -32,8 +32,8 @@ In the news, not only financial figures have a significant impact on stock price
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=usCuSVxOk5s">
-    <img src="https://zekunsgames.oss-us-west-1.aliyuncs.com/p1Title.png" alt="Project Introduction Video">
+  <a href="https://www.youtube.com/watch?v=Ds099gUzfhg">
+    <img src="https://drive.google.com/file/d/1AMtNG3hMl9-Fx6dmlTARx9xp0auOw5nj/view?usp=sharing" alt="Project Introduction Video">
   </a>
 </div>
 
