@@ -1,6 +1,6 @@
-# Smart_Investor
+# NUS-ISS-IS-PLP-GROUP12
 ## SECTION 1 : PROJECT TITLE
-## Hazelnut Games
+## Smart_Investor
 <div align="center">
   <img src="https://zekunsgames.oss-us-west-1.aliyuncs.com/p1_intro_img.png" alt="Project Title">
 </div>
@@ -13,6 +13,7 @@ The Singapore Exchange (SGX) noted that since February, 2020, the monthly number
 Standard Chartered Bank Singapore said it has seen a 200 per cent growth in trading volumes and a 20 per cent increase in account applications for the bank's online trading platform in the first half of this year. Mr. Mark Chia, the bank's head of managed investments and equities, said: "The Covid-19 pandemic has triggered a liquidity-driven market rally amidst unprecedented fiscal and monetary policy stimulus. Investors are also becoming more financially savvy. They are familiar with investment concepts such as 'buying on dips' and 'dollar-cost averaging'.
 From all the news above, it is obvious that more and more people invest a large potion of their deposit into stock market. And, when analysts, investors and institutional traders evaluate current stock prices, news plays an important role in the valuation process. In fact, news carries information about the firm's fundamentals and qualitative information influencing expectations of market participants. From a theoretical point of view, an efficient valuation of a firm should reflect the present value of the firm's expected future cash flows. The expectations on the firm's development are crucially dependent on the information set that is available to investors. The information set consists of news that contains qualitative as well as quantitative information from various sources, e.g., corporate disclosures, third party news articles and analyst reports. If financial news conveys novel information leading to adjusted expectations about either firm's cash flows or investor's discount rates, it affects stock returns. 
 In the news, not only financial figures have a significant impact on stock price, but also the qualitative textual components impact stock prices when containing new information. Therefore, in this project, various NLP tools has been taken to deal with news data so as to help investor make more reasonable decision. 
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
