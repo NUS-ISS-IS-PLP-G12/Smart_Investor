@@ -2,7 +2,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Smart_Investor
 <div align="center">
-  <img src="https://zekunsgames.oss-us-west-1.aliyuncs.com/p1_intro_img.png" alt="Project Title">
+  <img src="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/assets/images/smart_investor.png?raw=true" alt="Project Title">
 </div>
 ---
 
