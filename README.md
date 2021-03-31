@@ -33,7 +33,7 @@ In the news, not only financial figures have a significant impact on stock price
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Ds099gUzfhg">
-    <img src="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/assets/images/smart_investor.png?raw=true" alt="Project Introduction Video">
+    <img src="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/assets/images/NLP.png?raw=true" alt="Project Introduction Video">
   </a>
 </div>
 
