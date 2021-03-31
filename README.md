@@ -24,7 +24,7 @@ In the news, not only financial figures have a significant impact on stock price
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Tao Xiyan | A0215472J |Overall system and algorithm Design, implementation and validation, project management and documentation | e0535562@u.nus.edu |
+| Tao Xiyan | A0215472J |Overall system and algorithm Design, algorithm implementation and validation, project management and documentation | e0535562@u.nus.edu |
 | Li Jiayi  | A0215492E |System and UI design, algorithm implementation, documentation| e0535582@u.nus.edu |
 
 ---
