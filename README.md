@@ -1,7 +1,6 @@
 # NUS-ISS-IS-PLP-GROUP 12
-## SECTION 1 : PROJECT TITLE
-## Smart_Investor
-### INTRODUCTION & DEMO VEDIO
+## SMART INVESTOR
+### SECTION 1 : INTRODUCTION & DEMO VIDEO
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Ds099gUzfhg">
     <img src="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/assets/images/NLP.png?raw=true" alt="Project Introduction Video">
@@ -20,9 +19,11 @@ In the news, not only financial figures have a significant impact on stock price
 
 ### SYSTEM OVERVIEW
 
- Stock trading indexes, top 10 international news and top three Amazon corporate news![image](https://user-images.githubusercontent.com/52357373/113260789-419d2480-9301-11eb-9f37-76c6c932399f.png)
+![image](https://user-images.githubusercontent.com/52357373/113260970-76a97700-9301-11eb-8291-86b81deb3608.png)
 
-1. The first part is stock price prediction and investment recommendation part, where we use six algorithms to deal with information including the Stock trading indexes, top 10 international news and top three Amazon corporate news. The performance of each algorithm is: For Bert, 61%; LSTM, 54%; CNN, 52%; MLP, 55%; LR, 57%; RF, 52%. Different character of each algorithm has been taken into consideration, so the Ensemble strategy is used to create final model. And the final performance reach to 62. Although the result is not satisfactory as well, our Smart Investor system perform above the average in the related project in the relevant field (Comparing chart can be seen in the project video). 
+1. The first part is stock price prediction and investment recommendation part, where we use six algorithms to deal with information including the Stock trading indexes, top 10 international news and top three Amazon corporate news. The performance of each algorithm is: 
+      For Bert, 61%; LSTM, 54%; CNN, 52%; MLP, 55%; LR, 57%; RF, 52%. 
+Different character of each algorithm has been taken into consideration, so the Ensemble strategy is used to create final model. And the final performance reach to 62. Although the result is not satisfactory as well, our Smart Investor system perform above the average in the related project in the relevant field (Comparing chart can be seen in the project video). 
 Taking advantage of trained final model, combined with trading index, international and corporate new crawled in real time, the Smart Investor can give users today stock price trend prediction, confidence probability and the final recommendation. 
 
 2. The second part is the Financial research report Summarization part. 
