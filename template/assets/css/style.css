@@ -141,9 +141,9 @@ h5 {
     line-height: 2rem;
 }
 h1 {
-    font-size: 3rem;
-    line-height: 4rem;
-    font-weight: 300;
+    font-size: 6rem;
+    line-height: 5rem;
+    font-weight: 400;
 }
 h2 {
     font-size: 2.5rem;
@@ -572,7 +572,7 @@ input:-ms-input-placeholder {
 .navbar-default {
     background-color:transparent;
     border:transparent;
-    padding-top: 70px;
+    padding-top: 50px;
 }
 
 .navbar {
@@ -613,7 +613,7 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color:#ffc038;
+    background-color:grey;
     color:#fff;
 }
 .homepage-style{

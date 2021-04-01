@@ -1,6 +1,6 @@
-Python=3.6
-tensorflow=1.2.1
-numpy=1.16
+Python
+tensorflow
+numpy
 nltk
 pandas
 

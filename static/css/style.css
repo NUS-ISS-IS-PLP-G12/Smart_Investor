@@ -581,10 +581,10 @@ input:-ms-input-placeholder {
 }
 
 .navbar-default .navbar-nav>.active a{
-    background-color:transparent;
+    background-color:grey;
 }
 .navbar-default .navbar-nav>.active a:hover{
-    background-color:transparent;
+    background-color:grey;
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a {

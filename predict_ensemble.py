@@ -151,10 +151,8 @@ def get_final():
 
     df=cleaning(news)
     possi_mlp=mlp(df)
-    # possi_cnn=cnn(df)
-    possi_cnn = [0,0]
-    # possi_ls=lstm(df)
-    possi_ls = [0,0]
+    possi_cnn=cnn(df)
+    possi_ls=lstm(df)
     possi_rf=rf(num)
     possi_lr=lr(num)
 
@@ -179,8 +177,6 @@ def get_final():
     l_p = product[0]+product[2]+product[4]+product[6]+product[8]+l_be
     r_p = product[1]+product[3]+product[5]+product[7]+product[9]+r_be
 
-    # l_p = product[0]+product[2]+product[4]+product[6]+l_be
-    # r_p = product[1]+product[3]+product[5]+product[7]+r_be
 
     l_pp = l_p / (l_p+r_p)
     r_pp = r_p / (l_p+r_p)

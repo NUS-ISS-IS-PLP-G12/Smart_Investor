@@ -3,7 +3,7 @@ bert/*.bin
 bert/*
 bert/
 *.npy
-
+README.md
 
 #####
 # Byte-compiled / optimized / DLL files

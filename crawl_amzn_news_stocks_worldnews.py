@@ -45,6 +45,7 @@ def get_news_link_content():
         con_n = html_n[web_start1[i]:web_end1[i]]
         con_n = re.sub(r"<.*?>","",con_n)
         news_content+=con_n+"\n"
+        news_content = str(news_content)
 
     return web_list_ori,news_content
 
