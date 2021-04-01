@@ -20,7 +20,8 @@ In the news, not only financial figures have a significant impact on stock price
 
 ### SYSTEM OVERVIEW
 
-![image](https://user-images.githubusercontent.com/52357373/113258537-a4d98780-92fe-11eb-80e5-62463bc31588.png)
+ Stock trading indexes, top 10 international news and top three Amazon corporate news![image](https://user-images.githubusercontent.com/52357373/113260789-419d2480-9301-11eb-9f37-76c6c932399f.png)
+
 1. The first part is stock price prediction and investment recommendation part, where we use six algorithms to deal with information including the Stock trading indexes, top 10 international news and top three Amazon corporate news. The performance of each algorithm is: For Bert, 61%; LSTM, 54%; CNN, 52%; MLP, 55%; LR, 57%; RF, 52%. Different character of each algorithm has been taken into consideration, so the Ensemble strategy is used to create final model. And the final performance reach to 62. Although the result is not satisfactory as well, our Smart Investor system perform above the average in the related project in the relevant field (Comparing chart can be seen in the project video). 
 Taking advantage of trained final model, combined with trading index, international and corporate new crawled in real time, the Smart Investor can give users today stock price trend prediction, confidence probability and the final recommendation. 
 
@@ -54,7 +55,8 @@ The Financial research report written by professional analyst has a huge impact 
 ## SECTION 7 : DATASET
 
 `109,110 Financial News from Reuters` <a href="https://github.com/duynht/financial-news-dataset">click here</a>
-` 12-years AMZN STOCK DATASET, including stock trading indexes, top 10 international news and top three Amazon corporate news` <a href="https://github.com/thezzk/HDImageRobot">click here</a>
+
+` 12-years AMZN STOCK DATASET, including stock trading indexes, top 10 international news and top three Amazon corporate news` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/data/dataset.zip">click here</a>
 
 ---
 
