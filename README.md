@@ -49,7 +49,7 @@ The Financial research report written by professional analyst has a huge impact 
 
 ## SECTION 5 : PROJECT REPORT
 
-`Refer to Project Report at Github Folder: ProjectReport` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Install%20guide.pdf">click here</a>
+`Refer to Project Report at Github Folder: ProjectReport` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Graduate%20Cert%20of%20Practicle%20Language%20Processing-Group12-Tao%20Xiyan%20Li%20Jiayi.pdf">click here</a>
 
 ---
 
