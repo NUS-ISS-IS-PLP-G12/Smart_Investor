@@ -43,7 +43,7 @@ The Financial research report written by professional analyst has a huge impact 
 ## SECTION 4 : USER GUIDE
 
 
-`If you want to deploy this project on your local machine. Refer to Local Install Guide in project report at Github Folder: ProjectReport` <a href="https://github.com/2020-IRS-G12/GameRecommender/blob/master/ProjectReport/LocalInstallationGuide.pdf">click here</a>
+`If you want to deploy this project on your local machine. Refer to Local Install Guide in project report at Github Folder: ProjectReport` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Install%20guide.pdf">click here</a>
 
 ---
 
