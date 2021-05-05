@@ -39,7 +39,6 @@ The Financial research report written by professional analyst has a huge impact 
 | Li Jiayi  | A0215492E |Project investigator, System and UI design, algorithm implementation, documentation, video scripter | e0535582@u.nus.edu |
 
 ---
-
 ## SECTION 4 : USER GUIDE
 
 
@@ -47,7 +46,14 @@ The Financial research report written by professional analyst has a huge impact 
 
 ---
 
-## SECTION 5 : PROJECT REPORT
+## SECTION 5 : USER GUIDE
+
+
+`If you want to deploy this project on your local machine. Refer to Local Install Guide in project report at Github Folder: ProjectReport` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Install%20guide.pdf">click here</a>
+
+---
+
+## SECTION 6 : PROJECT REPORT
 
 `Refer to Project Report at Github Folder: ProjectReport` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Graduate%20Cert%20of%20Practicle%20Language%20Processing-Group12-Tao%20Xiyan%20Li%20Jiayi.pdf">click here</a>
 
