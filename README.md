@@ -39,10 +39,10 @@ The Financial research report written by professional analyst has a huge impact 
 | Li Jiayi  | A0215492E |Project investigator, System and UI design, algorithm implementation, documentation, video scripter | e0535582@u.nus.edu |
 
 ---
-## SECTION 4 : USER GUIDE
+## SECTION 4 : DOWNLOAD SUMMARIZATION MODEL
 
 
-`If you want to deploy this project on your local machine. Refer to Local Install Guide in project report at Github Folder: ProjectReport` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Install%20guide.pdf">click here</a>
+`you need to download the summarization model(fin-tuing by finance cnn news data) and unzip all the files in /PreSum/. Download link:` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Install%20guide.pdf">click here</a>
 
 ---
 
