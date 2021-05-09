@@ -42,7 +42,7 @@ The Financial research report written by professional analyst has a huge impact 
 ## SECTION 4 : DOWNLOAD SUMMARIZATION MODEL
 
 
-`you need to download the summarization model(fin-tuing by finance cnn news data) and unzip all the files in /PreSum/. Download link:` <a href="https://github.com/NUS-ISS-IS-PLP-G12/Smart_Investor/blob/main/Report/Install%20guide.pdf">click here</a>
+`you need to download the summarization model(fin-tuing by finance cnn news data) and unzip all the files in /PreSum/. Download link:` <a href="https://drive.google.com/file/d/1eA0M71g0wGzLQrUBlBcEiGszYKykIZ12/view?usp=sharing">click here</a>
 
 ---
 
